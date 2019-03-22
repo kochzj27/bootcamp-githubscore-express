@@ -1,0 +1,18 @@
+.result {
+  margin-top: 15px;
+  display: flex;
+  flex-direction: column;
+  max-width: 485px;
+  height: 500px;
+}
+
+.score-box{
+  border: 1px solid gray;
+  padding: 10px;
+}
+
+#displaydiv{
+  overflow-y: scroll;
+  height: 400px;
+  border: 3px solid black;
+}
